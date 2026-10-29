@@ -72,17 +72,71 @@ Overland provides an open source GPS tracking app for iPhone that logs location 
 
 Everything profiled for Overland is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/overland/](https://apis.io/providers/overland/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Overland API](https://apis.io/apis/overland/overland-api/) — Overland provides an open source GPS tracking API documented on its website.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Overland Domain Security](https://apis.io/security/overland/overland-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://overland.p3k.app/)
+- [API reference](https://overland.p3k.app/#api)
+- [Support](https://overland.p3k.app/#contact)
+- [Changelog](https://github.com/happytechca/overland-android/releases)
 - [Privacy policy](https://overland.p3k.app/privacy)
 - [GitHub](https://github.com/aaronpk)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/overland/](https://apis.io/providers/overland/).
+**Kin Score 13.4** — emerging · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 6.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/overland/](https://apis.io/providers/overland/).
 
 ## How this profile is made
 
